@@ -1,0 +1,10 @@
+- [x] 01 - Demo App
+- [x] 02 - Get TMDB API key
+- [x] 03 - Create a react app
+- [x] 04 - Setup firebase hosting
+- [x] 05 - Get all the MOVIES
+- [x] 06 - Build the Rows
+- [ ] 07 - Build the Banner
+- [ ] 08 - Build the Navbar
+- [ ] 09 - Add Trailer popups
+- [ ] 10 - Deploy App
